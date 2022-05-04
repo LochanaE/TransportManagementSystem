@@ -1,0 +1,20 @@
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\bin\Debug\transportMg.exe.config
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\bin\Debug\transportMg.exe
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\bin\Debug\transportMg.pdb
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\bin\Debug\Guna.UI2.dll
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.csprojResolveAssemblyReference.cache
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.Properties.Resources.resources
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.csproj.GenerateResource.Cache
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.exe
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.pdb
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.drivers.resources
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.users.resources
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.customers.resources
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.vehicles.resources
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.bookings.resources
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.dashboard.resources
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.Login.resources
+E:\camps\semesters\04 Semester\individual projects\individual project\transportMg\transportMg\obj\Debug\transportMg.AdminLogin.resources
+E:\github pro\individual project\transportMg\transportMg\bin\Debug\transportMg.exe.config
+E:\github pro\individual project\transportMg\transportMg\obj\Debug\transportMg.exe
+E:\github pro\individual project\transportMg\transportMg\obj\Debug\transportMg.pdb
